@@ -1,6 +1,6 @@
 {
   "name": "Butterfly of the Twilight — Dark",
-  "description": "Elegant dark theme inspired by Shinobu Kocho from Demon Slayer.",
+  "description": "Elegant dark theme inspired by Shinobu Kocho from Demon Slayer, featuring soft purples and gold highlights under a calm night sky.",
   "version": "2",
   "authors": [
     {
@@ -8,24 +8,16 @@
       "id": "shebyyy"
     }
   ],
-  "semanticColors": {
-    // will add
-  },
-  "rawColors": {
-    // will add
-  },
-  "fonts": {
-    // will add
-  },
+  "semanticColors": {},
+  "rawColors": {},
+  "fonts": {},
   "background": {
     "blur": 2.0,
     "url": "https://files.catbox.moe/kkrs2y.jpg",
-    "OPACITY": 0
+    "alpha": 0.25
   },
   "plus": {
-    "icons": {
-      // will add
-    }
+    "icons": {}
   },
   "spec": 2
 }
