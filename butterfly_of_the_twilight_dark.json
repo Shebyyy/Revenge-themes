@@ -1,7 +1,7 @@
 {
-  "name": "Butterfly of the Twilight — Dark Mode",
-  "description": "A calm, elegant dark theme inspired by Shinobu Kocho from Demon Slayer. Features a sunset silhouette and butterfly glow tones in purple and gold.",
-  "version": "1.1",
+  "name": "Butterfly of the Twilight — Dark",
+  "description": "Elegant dark theme inspired by Shinobu Kocho from Demon Slayer.",
+  "version": "2",
   "authors": [
     {
       "name": "Sheby",
@@ -9,52 +9,22 @@
     }
   ],
   "semanticColors": {
-    "PRIMARY_100": ["#8B5CF6"],
-    "PRIMARY_200": ["#A78BFA"],
-    "PRIMARY_300": ["#C084FC"],
-    "PRIMARY_400": ["#D8B4FE"],
-    "PRIMARY_500": ["#EDE9FE"],
-    "BACKGROUND_PRIMARY": ["#0A0A12"],
-    "BACKGROUND_SECONDARY": ["#13131F"],
-    "BACKGROUND_TERTIARY": ["#1C1C2A"],
-    "TEXT_NORMAL": ["#EDE9FE"],
-    "TEXT_MUTED": ["#B5A8D9"],
-    "ACCENT_PRIMARY": ["#FBBF24"],
-    "LINK": ["#A78BFA"],
-    "SUCCESS": ["#22C55E"],
-    "ERROR": ["#EF4444"],
-    "WARNING": ["#F59E0B"],
-    "INFO": ["#3B82F6"]
+    // will add
   },
   "rawColors": {
-    "TEXT_PRIMARY": "#EDE9FE",
-    "TEXT_SECONDARY": "#B5A8D9",
-    "BORDER": "#1E1E2A",
-    "HIGHLIGHT": "#A78BFA",
-    "SHADOW": "#000000A0",
-    "PANEL": "#13131F",
-    "CARD": "#1C1C2A"
+    // will add
   },
   "fonts": {
-    "PRIMARY": "Poppins",
-    "SECONDARY": "Fira Code",
-    "TITLE": "Playfair Display"
+    // will add
   },
   "background": {
+    "blur": 2.0,
     "url": "https://files.catbox.moe/kkrs2y.jpg",
-    "alpha": 0.25,
-    "blur": 3.0
+    "OPACITY": 0
   },
   "plus": {
     "icons": {
-      "style": "glow",
-      "accent": "#C084FC",
-      "hover": "#FBBF24"
-    },
-    "effects": {
-      "glow": true,
-      "hoverAnimation": true,
-      "transitions": "smooth"
+      // will add
     }
   },
   "spec": 2
