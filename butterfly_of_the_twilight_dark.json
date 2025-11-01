@@ -1,7 +1,7 @@
 {
   "name": "Butterfly of the Twilight — Dark Mode",
-  "description": "A graceful dark theme inspired by Shinobu Kocho from Demon Slayer. Features a serene sunset silhouette with glowing butterfly tones and deep purples for an elegant, night-ready atmosphere.",
-  "version": "1",
+  "description": "A calm, elegant dark theme inspired by Shinobu Kocho from Demon Slayer. Features a sunset silhouette and butterfly glow tones in purple and gold.",
+  "version": "1.1",
   "authors": [
     {
       "name": "Sheby",
@@ -9,37 +9,41 @@
     }
   ],
   "semanticColors": {
-    "primary": "#8B5CF6",
-    "secondary": "#C084FC",
-    "accent": "#FBBF24",
-    "background": "#0A0A12",
-    "foreground": "#EDE9FE",
-    "muted": "#7C7C7C",
-    "link": "#A78BFA",
-    "success": "#22C55E",
-    "error": "#EF4444",
-    "warning": "#F59E0B",
-    "info": "#3B82F6"
+    "PRIMARY_100": ["#8B5CF6"],
+    "PRIMARY_200": ["#A78BFA"],
+    "PRIMARY_300": ["#C084FC"],
+    "PRIMARY_400": ["#D8B4FE"],
+    "PRIMARY_500": ["#EDE9FE"],
+    "BACKGROUND_PRIMARY": ["#0A0A12"],
+    "BACKGROUND_SECONDARY": ["#13131F"],
+    "BACKGROUND_TERTIARY": ["#1C1C2A"],
+    "TEXT_NORMAL": ["#EDE9FE"],
+    "TEXT_MUTED": ["#B5A8D9"],
+    "ACCENT_PRIMARY": ["#FBBF24"],
+    "LINK": ["#A78BFA"],
+    "SUCCESS": ["#22C55E"],
+    "ERROR": ["#EF4444"],
+    "WARNING": ["#F59E0B"],
+    "INFO": ["#3B82F6"]
   },
   "rawColors": {
-    "text": "#EDE9FE",
-    "textSecondary": "#B5A8D9",
-    "border": "#1E1E2A",
-    "highlight": "#A78BFA",
-    "shadow": "#000000A0",
-    "panel": "#13131F",
-    "card": "#1C1C2A"
+    "TEXT_PRIMARY": "#EDE9FE",
+    "TEXT_SECONDARY": "#B5A8D9",
+    "BORDER": "#1E1E2A",
+    "HIGHLIGHT": "#A78BFA",
+    "SHADOW": "#000000A0",
+    "PANEL": "#13131F",
+    "CARD": "#1C1C2A"
   },
   "fonts": {
-    "primary": "Poppins",
-    "secondary": "Fira Code",
-    "title": "Playfair Display"
+    "PRIMARY": "Poppins",
+    "SECONDARY": "Fira Code",
+    "TITLE": "Playfair Display"
   },
   "background": {
-    "blur": 3.0,
     "url": "https://files.catbox.moe/kkrs2y.jpg",
-    "opacity": 0.25,
-    "overlayColor": "#000000CC"
+    "alpha": 0.25,
+    "blur": 3.0
   },
   "plus": {
     "icons": {
