@@ -1,0 +1,46 @@
+{
+  "name": "Midnight Neon",
+  "description": "A stylish dark theme with neon purple and blue highlights — sleek, readable, and modern for Discord Revenge.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "Sheby",
+      "id": "shebyyy"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_PRIMARY": "#0d0d0f",
+    "BACKGROUND_SECONDARY": "#121218",
+    "BACKGROUND_TERTIARY": "#181820",
+    "TEXT_NORMAL": "#d8d8e3",
+    "TEXT_MUTED": "#9b9bb3",
+    "TEXT_LINK": "#6e6bff",
+    "HEADER_PRIMARY": "#ffffff",
+    "HEADER_SECONDARY": "#c8c8d8",
+    "ACCENT_PRIMARY": "#9f5bff",
+    "ACCENT_SECONDARY": "#5b9fff",
+    "BUTTON_PRIMARY_BACKGROUND": "#5b5bff",
+    "BUTTON_SECONDARY_BACKGROUND": "#26263a",
+    "BUTTON_PRIMARY_TEXT": "#ffffff",
+    "BUTTON_SECONDARY_TEXT": "#d8d8e3",
+    "INPUT_BACKGROUND": "#1a1a26",
+    "INPUT_PLACEHOLDER_TEXT": "#77778f",
+    "HOVER": "#1f1f2a",
+    "SELECTED": "#2b2b3d",
+    "MENTION_BACKGROUND": "#5b5bff33",
+    "MENTION_TEXT": "#c7c7ff"
+  },
+  "rawColors": {
+    "PRIMARY": "#9f5bff",
+    "SECONDARY": "#5b9fff",
+    "SUCCESS": "#00c896",
+    "DANGER": "#ff4d6d",
+    "WARNING": "#ffb347",
+    "INFO": "#5bc0ff"
+  },
+  "fonts": {
+    "primary": "JetBrains Mono, Segoe UI, sans-serif",
+    "code": "JetBrains Mono"
+  },
+  "spec": 2
+}
