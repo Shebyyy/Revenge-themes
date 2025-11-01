@@ -1,0 +1,63 @@
+{
+  "name": "VoidPulse — Dark",
+  "description": "A sleek neon-dark theme with glowing accents and balanced contrast for perfect readability. Designed for Revenge Discord.",
+  "version": "1",
+  "authors": [
+    {
+      "name": "Sheby",
+      "id": "shebyyy"
+    }
+  ],
+  "semanticColors": {
+    "PRIMARY_100": ["#7C3AED"],
+    "PRIMARY_200": ["#8B5CF6"],
+    "PRIMARY_300": ["#A78BFA"],
+    "PRIMARY_400": ["#C084FC"],
+    "BACKGROUND_PRIMARY": ["#0B0B0F"],
+    "BACKGROUND_SECONDARY": ["#141420"],
+    "BACKGROUND_TERTIARY": ["#1C1C2A"],
+    "TEXT_NORMAL": ["#E4E4F4"],
+    "TEXT_MUTED": ["#9C9CC4"],
+    "ACCENT_PRIMARY": ["#6D28D9"],
+    "ACCENT_SECONDARY": ["#22D3EE"],
+    "LINK": ["#38BDF8"],
+    "MENTION_BACKGROUND": ["#4C1D9540"],
+    "MENTION_TEXT": ["#E0E7FF"],
+    "HIGHLIGHT": ["#7C3AED"],
+    "ONLINE": ["#22C55E"],
+    "IDLE": ["#EAB308"],
+    "DND": ["#EF4444"]
+  },
+  "rawColors": {
+    "TEXT_PRIMARY": "#E4E4F4",
+    "TEXT_SECONDARY": "#B4B4CC",
+    "TEXT_LINK": "#38BDF8",
+    "BORDER": "#2A2A3A",
+    "HIGHLIGHT": "#7C3AED",
+    "SUCCESS": "#22C55E",
+    "ERROR": "#EF4444",
+    "WARNING": "#FACC15",
+    "INFO": "#60A5FA",
+    "PANEL": "#13131B",
+    "CARD": "#1C1C28",
+    "HEADER": "#7C3AED"
+  },
+  "fonts": {
+    "PRIMARY": "Inter, Poppins, sans-serif",
+    "SECONDARY": "Fira Code",
+    "TITLE": "Orbitron"
+  },
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 1
+  },
+  "plus": {
+    "icons": {
+      "style": "glow",
+      "accent": "#7C3AED",
+      "hover": "#22D3EE"
+    }
+  },
+  "spec": 2
+}
